@@ -210,9 +210,6 @@ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154083
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/8736fb2879c70cdeb3e979be09926993.png" group-title="Canales",Cartoon Network HD
 https://playout.cdn.cartoonnetwork.com.br:443/playout_06/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/8736fb2879c70cdeb3e979be09926993.png" group-title="Canales",Cartoon Cartoons HD
-https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/2c5d356e192ffa5ab7704ebf5e72e782.png" group-title="Canales",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8?checkedby:iptvcat.com
 
