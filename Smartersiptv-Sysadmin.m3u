@@ -1,7 +1,6 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg"group-title="Canales",Latina HD
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/46545444
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/46590
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg"group-title="Canales",America TV HD
@@ -52,89 +51,113 @@ http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/27790
 #EXTINF:-1 tvg-id="I5.87004.schedulesdirect.org" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="Canales",A&E HD 
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/7731
 
-#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="Canales",AMC HD 
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/104
+#EXTINF:-1 tvg-id="I5.87004.schedulesdirect.org" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="Canales",A&E Movies HD 
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/298734
 
-#EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="Canales",Cinecanal HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092595
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="Canales",ES AMC HD 
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1174
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/76d84599a5072ff6574245d88b732072.png" group-title="Canales",FX HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092561
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="Canales",LA AMC HD 
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/2996
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/a263d74ce9e266e0bd81f01005d2a62e.png" group-title="Canales",Warner Bros
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/60006
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="Canales",MX AMC HD 
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9083
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/26657d5ff9020d2abefe558796b99584.png" group-title="Canales",Home & Health
-http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/76d84599a5072ff6574245d88b732072.png" group-title="Canales",MX FX HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9105
+
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/76d84599a5072ff6574245d88b732072.png" group-title="Canales",LA FX HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/34561
+
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/a263d74ce9e266e0bd81f01005d2a62e.png" group-title="Canales",LA Warner Bros
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9142
+
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/a263d74ce9e266e0bd81f01005d2a62e.png" group-title="Canales",ES Warner Bros
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/298814
+
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/26657d5ff9020d2abefe558796b99584.png" group-title="Canales",LA Home & Health
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/5774
+
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/26657d5ff9020d2abefe558796b99584.png" group-title="Canales",MX Home & Health
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9110
 
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="Canales",Golden HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/127
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/5793
 
 #EXTINF:-1 tvg-id="goldenedge.mx"  tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="Canales",Golden Edge HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092586
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9076
 
 #EXTINF:-1 tvg-id="goldenplus.mx" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="Canales",Golden Plus HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10862
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3051
 
 #EXTINF:-1 tvg-id="goldenpremier.mx" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="Canales",Golden Premier HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/200947
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3052
 
 #EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="Canales",HBO HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/154
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3055
 
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="Canales",HBO Family 
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10877
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3057
 
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="Canales",HBO 2 HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/132
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3056
 
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="Canales",HBO Mundi HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/142
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/226015
 
 #EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="Canales",HBO Plus HD 
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/145
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3058
 
 #EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="Canales",HBO Pop HD 
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/147
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3069
 
 #EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="Canales",HBO Signature HD1
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10881
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3059
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="Canales",HBO Extreme HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/156
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/148927
 
 #EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="Canales",Star Channel HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/161
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/280374
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="Canales",TNT HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/167
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3089
 
 #EXTINF:-1 tvg-id="213dtv.cl"  tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="Canales",TNT Series
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/170
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/285147
+
+#EXTINF:-1 tvg-id="213dtv.cl"  tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png" group-title="Canales",TNT Sports
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/285164
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="Canales",Cinemax East HD
 http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/178
 
 #EXTINF:-1 tvg-id="1509dtv.cl"  tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="Canales",Cinemax HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/173
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/5770
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="Canales",Space HD
-http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/203
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="Canales",LA Space HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/299325
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="Canales",MX Space HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9136
 
 #EXTINF:-1 tvg-id=""  tvg-logo="http://ceoapps.org/logos/universalcinema.png" group-title="Canales",Universal Cinema HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2081448
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/291225
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/2565ef919dd558390045543fd48c80b1.png"group-title="Canales",Universal HD
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092575
 
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb8d1f010d2ba2c6bfb2578fcd38145f.png"group-title="Canales",Studio Universal HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3083
+
 #EXTINF:-1 tvg-id=""  tvg-logo="http://boxdigital.xyz:8080/images/6a033ba0a95431f597adfd0e53e1c7e7.png" group-title="Canales",Universal Comedy HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2081444
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/291224
 
 #EXTINF:-1 tvg-id="" tvg-name=" Universal Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0e6994985c32c700d463eadc0506161f.png" group-title="Canales",Universal Crime
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/291222
 
 #EXTINF:-1 tvg-id="" tvg-name=" Universal Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/e73a219ec196c9bb4ce328f9b79be7f8.png" group-title="Canales",Universal Premiere
-http://tv.onplas.xyz:8080/c7audi847v/3b5rShYoDH/144838
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/298831
 
 #EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2e67a715926cb3b55108e791a1209c36.png" group-title="Canales",Universal Reality
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/291217
@@ -143,7 +166,7 @@ http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/291217
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/281050
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/38b3eff8baf56627478ec76a704e9b52.png"group-title="Canales",Discovery World HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2095406
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/8894
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/13c5761fbc4d10bc361221c281f84190.png"group-title="Canales",Discovery Theater HD
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9151
@@ -161,13 +184,19 @@ http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9050
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/8725
 
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png" group-title="Canales",Nat Geo Wild
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9072
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1137
 
-#EXTINF:-1 tvg-id="paramountchannel.mx"  tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="Canales",Paramount Channel HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10867
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png" group-title="Canales",Nat Geo Mundo
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/267311
+
+#EXTINF:-1 tvg-id="paramountchannel.mx"  tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="Canales",LA Paramount Channel HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3077
+
+#EXTINF:-1 tvg-id="paramountchannel.mx"  tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="Canales",ES Paramount Channel HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/2209
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/d239371fa97f976721de3f6d04dac38d.png"group-title="Canales",Sony Channel HD
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3081
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3081
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/ee02729495f64bacd763417e10813eed.png"group-title="Canales",Gol Peru HD
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/8990
@@ -212,16 +241,19 @@ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154090
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154087
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="" group-title="Canales",Disney Channel HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/148728
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3025
+
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="" group-title="Canales",MX Disney Channel HD
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9086
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="" group-title="Canales",Disney Junior HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154083
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9042
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/8736fb2879c70cdeb3e979be09926993.png" group-title="Canales",Cartoon Network HD
 https://playout.cdn.cartoonnetwork.com.br:443/playout_06/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/2c5d356e192ffa5ab7704ebf5e72e782.png" group-title="Canales",Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8?checkedby:iptvcat.com
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="http://boxdigital.xyz:8080/images/698d8b4c5ae78ec3aca50cd3958e4098.png" tvg-shift="0" group-title="Canales",Pluto TV Anime Latino
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
