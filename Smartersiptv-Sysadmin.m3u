@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg"group-title="Canales",Latina HD
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/46590
 
-#EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg"group-title="Canales",c
-http://45.5.117.172:8000/play/a0gt/index.m3u8
-
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg"group-title="Canales",America TV HD
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/8983
 
