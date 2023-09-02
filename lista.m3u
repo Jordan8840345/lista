@@ -4,7 +4,7 @@
  https://live-latinav2-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?& 
   
  #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg"group-title="Canales",America TV HD 
- http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/199968 
+ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/199968
   
  #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png"group-title="Canales", Panamericana 
  https://cdn75.iblups.com/hls/2/stream.m3u8
