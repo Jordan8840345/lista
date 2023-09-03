@@ -7,7 +7,7 @@
  http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/199968
   
  #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png"group-title="Canales", Panamericana 
- https://cdn75.iblups.com/hls/2/stream.m3u8
+ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10628
   
  #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canales",TV Peru 
  https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8 
@@ -19,10 +19,10 @@
  https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8 
   
  #EXTINF:-1 tvg-id="" tvg-name="Willax TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c2eb2b754c48b75e62519d7ea41f6036.png" group-title="Canales",Willax TV 
- https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmjNUI7PRfzODwOhmqGS7HyG-cW4Kkxe7yfVbje_obFS)/dm/3/x7x4dgx/s/live-1.m3u8
+ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10641
   
  #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Canales",Axn HD 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34780.ts
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2100642
   
  #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Canales",Axn White HD 
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34779.ts
@@ -55,7 +55,7 @@
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72631.ts
   
  #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/a263d74ce9e266e0bd81f01005d2a62e.png" group-title="Canales",Warner Bros 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/73615.ts
+ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/60006
   
  #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/26657d5ff9020d2abefe558796b99584.png" group-title="Canales",Home & Health 
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34744.ts
@@ -91,7 +91,7 @@
  http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/147 
   
  #EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="Canales",HBO Signature HD
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72639.ts
+ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10881
   
  #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="Canales",HBO Extreme HD 
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72641.ts
@@ -107,12 +107,9 @@
  
  #EXTINF:-1 tvg-id="213dtv.cl"  tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="Canales",TNT Novelas
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34800.ts
-  
- #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="Canales",Cinemax East HD 
- http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/178 
-  
+ 
  #EXTINF:-1 tvg-id="1509dtv.cl"  tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="Canales",Cinemax HD 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72620.ts
+ http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/173
   
  #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="Canales",Space HD 
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72619.ts
@@ -127,7 +124,7 @@
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72622.ts
   
  #EXTINF:-1 tvg-id=""  tvg-logo="http://boxdigital.xyz:8080/images/6a033ba0a95431f597adfd0e53e1c7e7.png" group-title="Canales",Universal Comedy HD 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72623.ts
+ http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9106
   
  #EXTINF:-1 tvg-id="" tvg-name=" Universal Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0e6994985c32c700d463eadc0506161f.png" group-title="Canales",Universal Crime 
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72626.ts
@@ -157,7 +154,7 @@
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72601.ts
 
  #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/7647966b7343c29048673252e490f736.png"group-title="Canales",History HD 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34764.ts
+ http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9050
   
  #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/7647966b7343c29048673252e490f736.png"group-title="Canales",History 2 HD
   http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34761.ts
@@ -187,7 +184,7 @@
  http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/298922 
   
  #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="Canales",Espn 2 
- http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/181346 
+ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/181346
   
  #EXTINF:-1 tvg-id=""  tvg-logo="http://ceoapps.org/logos/espnpremiumarg.png" group-title="Canales",Espn Premium  
  http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2121662 
@@ -241,7 +238,7 @@
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/76045.ts
   
  #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="" group-title="Canales",Disney Junior HD 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72606.ts
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154083
   
  #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/8736fb2879c70cdeb3e979be09926993.png" group-title="Canales",Cartoon Network HD 
  https://playout.cdn.cartoonnetwork.com.br:443/playout_06/playlist-720p.m3u8
@@ -249,9 +246,6 @@
  #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/2c5d356e192ffa5ab7704ebf5e72e782.png" group-title="Canales",Cartoonito 
  https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8 
  
- #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/2c5d356e192ffa5ab7704ebf5e72e782.png" group-title="Canales",Tooncast
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/40773.ts
-  
  #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="http://boxdigital.xyz:8080/images/698d8b4c5ae78ec3aca50cd3958e4098.png" tvg-shift="0" group-title="Canales",Pluto TV Anime Latino 
  https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8 
   
