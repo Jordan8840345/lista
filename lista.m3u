@@ -20,10 +20,11 @@ https://d6vls0u25arys.cloudfront.net:443/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf
  https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8 
   
  #EXTINF:-1 tvg-id="" tvg-name="Willax TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c2eb2b754c48b75e62519d7ea41f6036.png" group-title="Canales",Willax TV 
- http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10641
+
+http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34805.ts
   
  #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Canales",Axn HD 
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2100642
+http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34777.ts
   
  #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Canales",Axn White HD 
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34779.ts
@@ -155,7 +156,7 @@ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2100642
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/72601.ts
 
  #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/7647966b7343c29048673252e490f736.png"group-title="Canales",History HD 
- http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9050
+ http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34762.ts
   
  #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/7647966b7343c29048673252e490f736.png"group-title="Canales",History 2 HD
   http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34761.ts
