@@ -7,7 +7,7 @@
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/30747.ts
 
  #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png"group-title="Canales", Panamericana 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/30748.ts
+ https://cdn75.iblups.com/hls/stream.m3u8
   
  #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canales",TV Peru
  https://d6vls0u25arys.cloudfront.net:443/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8 
@@ -19,7 +19,7 @@
  https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8 
   
  #EXTINF:-1 tvg-id="" tvg-name="Willax TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c2eb2b754c48b75e62519d7ea41f6036.png" group-title="Canales",Willax TV 
- http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34805.ts
+ http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/3755.ts
   
  #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Canales",Axn HD 
  http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/34777.ts
@@ -2441,4 +2441,5 @@ https://ia601500.us.archive.org/9/items/dragon_ball_super_super_heroe_202209/dra
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://ia600508.us.archive.org/7/items/images-1_202309/images%20%281%29.jpeg" tvg-shift="0" group-title="Peliculas 2023", Megalodon 2
 https://latinplay.xyz/cdn/hls/928c644cfb2f0874d6995d363e6ab816/master.txt
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://i.imgur.com/ambEPS7.jpg" tvg-shift="0" group-title="Peliculas 2023", Amigos Intocables
+https://ia802703.us.archive.org/2/items/amigos-intocables-2011_frankito/Amigos%20Intocables%20%282011%29.mp4?cnt=0
